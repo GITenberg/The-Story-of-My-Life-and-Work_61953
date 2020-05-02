@@ -1,0 +1,48 @@
+_repo: The-Story-of-My-Life-and-Work_61953
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Curry, J. L. M. (Jabez Lamar Monroe)
+    alias: Curry, Jabez Lamar Monroe
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '50833'
+    url: http://www.gutenberg.org/2009/agents/50833
+    wikipedia: https://en.wikipedia.org/wiki/Jabez_Lamar_Monroe_Curry
+  illustrator:
+    agent_name: Beard, Frank
+    aliases:
+    - Beard, F. (Frank)
+    - Beard, Thomas Francis
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '43263'
+    url: http://www.gutenberg.org/2009/agents/43263
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Educators -- United States -- Biography'
+- !lcsh 'African American educators -- Biography'
+- !lcsh 'Washington, Booker T., 1856-1915'
+- !lcsh 'Tuskegee Institute'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Biography'
+- GITenberg
+title: The Story of My Life and Work
+url: http://www.gutenberg.org/ebooks/61953
